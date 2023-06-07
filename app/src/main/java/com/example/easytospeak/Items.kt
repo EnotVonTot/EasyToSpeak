@@ -12,5 +12,5 @@ class ItemsList  {val list = arrayListOf(
     Items(R.drawable.item5, "Present Continious"),
     Items(R.drawable.item6, "Future Simple"),
     Items(R.drawable.item7, "Future Perfect"),
-    Items(R.drawable.item8, "Future ontinious"),
+    Items(R.drawable.item8, "Future Continious"),
 )}
